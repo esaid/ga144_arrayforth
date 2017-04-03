@@ -4,7 +4,7 @@ arrayforth_editeur
 
 http://esaid.free.fr/tutoriel_arrayforth/Ga144_editeur/editeur.htm
 
-Dans le repertoire : ga144_menu_windows
+Dans le repertoire : ga144_menu
 
 sendkeys pour simuler le calvier sous windows
 cf2hack cfword pour transformer okad.cf vers fichier texte et inversement
