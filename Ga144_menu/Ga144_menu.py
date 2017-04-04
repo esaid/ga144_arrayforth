@@ -14,7 +14,7 @@ cheminarrayforth = "C:/GreenArrays/EVB001"
 programme_arrayforth = "Okad.bat"
 programmeEditeur = "notepad++.exe okadback.f"
 arrayforth = "colorForth"   #  nom de la fenetre active du prg ArrayForth
-t = 0.5   # 500ms
+t = 0.1   # 100ms
 # -------------------------------------------------------------------
 # ---------------------- fonctions ----------------------------------
 # -------------------------------------------------------------------
