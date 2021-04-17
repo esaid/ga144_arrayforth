@@ -4,15 +4,15 @@
 
 http://esaid.free.fr/tutoriel_arrayforth/Ga144_editeur/editeur.htm
 
-<p>Dans le repertoire : ga144_menu
+<p>Dans le repertoire : ga144_menu </p>
 
-sendkeys pour simuler le calvier sous windows
-cf2hack cfword pour transformer okad.cf vers fichier texte et inversement
-pour utiliser notepad++ comme editeur sous windows notepad++  
-lancer un terminal Run : cmd en mode administrateuret executer  la commande 
-set path=%path%;c:\Program Files (x86)\Notepad++
-Arrayforth est installe dans le repertoire "C:/GreenArrays/EVB001"
-Le programme a lancer est : "Okad.bat"</p>
+<p>sendkeys pour simuler le calvier sous windows </p>
+<p>cf2hack cfword pour transformer okad.cf vers fichier texte et inversement </p>
+<p>pour utiliser notepad++ comme editeur sous windows notepad++  </p>
+<p>lancer un terminal Run : cmd en mode administrateuret executer  la commande </p>
+<p>set path=%path%;c:\Program Files (x86)\Notepad++  </p>
+<p>Arrayforth est installe dans le repertoire "C:/GreenArrays/EVB002" </p>
+<p>Le programme a lancer est : "Okad.bat"</p>
 
 
 
