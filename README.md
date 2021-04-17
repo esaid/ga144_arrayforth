@@ -16,10 +16,10 @@ Le programme a lancer est : "Okad.bat"</p>
 
 
 
------------------------------ | ------------------------------
-                     ArrayForth | GA144                      
+-----------------------------------------------------------
+                     ArrayForth  GA144                      
                                                            
-  1) Lancer ArrayForth  |                                  
+  1) Lancer ArrayForth                                 
   2) Lancer editeur Notepad++                              
   3) okadback.cf ---> okadback.f  vers editeur Notepad++   
   4) okadback.f  ---> okadback.cf vers ArrayForth          
