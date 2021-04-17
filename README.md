@@ -17,20 +17,20 @@ Le programme a lancer est : "Okad.bat"</p>
 
 
 <p>-------------------------------------------------------------</p>
-<p>|                     ArrayForth GA144                      |</p>
-<p>|                                                           |</p>
-<p>|  1) Lancer ArrayForth                                     |</p>
-<p>|  2) Lancer editeur Notepad++                              |</p>
-<p>|  3) okadback.cf ---> okadback.f  vers editeur Notepad++   |</p>
-<p>|  4) okadback.f  ---> okadback.cf vers ArrayForth          |</p>
-<p>|  5) mise a jour donnees  ArrayForth                       |</p>                  
-<p>|                                                           |</p>
-<p>|  6) Commande a envoyer                                    |</p>                   
-<p>|                                                           |</p>
-<p>|  8) Initialiser ArrayForth (sauvegarde okadback.cf)       |</p>     
-<p>|                                                           |</p>
-<p>|  9) Quitter                                               |</p>                
-<p>|-----------------------------------------------------------|</p>
+<p>|                     ArrayForth GA144                      |
+|                                                           |
+|  1) Lancer ArrayForth                                     |
+|  2) Lancer editeur Notepad++                              |
+|  3) okadback.cf ---> okadback.f  vers editeur Notepad++   |
+|  4) okadback.f  ---> okadback.cf vers ArrayForth          |
+|  5) mise a jour donnees  ArrayForth                       |                  
+|                                                           |
+|  6) Commande a envoyer                                    |                   
+|                                                           |
+|  8) Initialiser ArrayForth (sauvegarde okadback.cf)       |     
+|                                                           |
+|  9) Quitter                                               |                
+|-----------------------------------------------------------|</p>
 
 <p>commande : </p>
 
